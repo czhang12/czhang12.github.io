@@ -1,2 +1,2 @@
-# czhang12.github.io
-personal website
+# personal website
+czhang12.github.io
