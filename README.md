@@ -1,2 +1,2 @@
 # Personal Website
-czhang12.github.io
+Check it out at <a href="https://czhang12.github.io/">czhang12.github.io</a>!
